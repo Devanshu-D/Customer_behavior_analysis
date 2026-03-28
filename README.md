@@ -27,11 +27,11 @@ The objective is to extract actionable insights into customer spending patterns,
 - Feature engineering:
   - Age group segmentation
   - Purchase frequency calculation
-- Integrated cleaned data into **PostgreSQL** for further analysis
+- Integrated cleaned data into **MySQL** for further analysis
 
 ---
 
-## 🧠 Business Analysis (SQL)
+## 🧠 Business Analysis (SQL - MySQL)
 Performed advanced SQL queries to answer key business questions:
 
 - Revenue comparison by gender
@@ -73,7 +73,7 @@ Developed an interactive dashboard to visualize:
 
 ## 🛠️ Tech Stack
 - **Python (Pandas, NumPy)**
-- **SQL (PostgreSQL)**
+- **SQL (MySQL)**
 - **Power BI**
 - **Data Analysis & Visualization**
 
